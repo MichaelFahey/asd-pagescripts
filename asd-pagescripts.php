@@ -13,7 +13,7 @@
  * Author URI:     https://artisansitedesigns.com/staff/michael-h-fahey/
  * Text Domain:    asd_pagescripts
  * License:        GPL3
- * Version:        1.201807192
+ * Version:        1.201812042
  *
  * ASD PageScripts is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
